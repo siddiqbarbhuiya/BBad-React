@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BBad-React/static/css/main.ab0b1196.css",
+    "main.js": "/BBad-React/static/js/main.323ae8ab.js",
+    "index.html": "/BBad-React/index.html",
+    "main.ab0b1196.css.map": "/BBad-React/static/css/main.ab0b1196.css.map",
+    "main.323ae8ab.js.map": "/BBad-React/static/js/main.323ae8ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0b1196.css",
+    "static/js/main.323ae8ab.js"
+  ]
+}
